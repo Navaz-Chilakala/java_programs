@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Demo {
+public class ArraySort {
     public static void main(String[] args) {
         //Arrays
         int [] arr = new int[3];
@@ -17,7 +17,10 @@ public class Demo {
         
         for(int i=0;i<arr.length;i++){
             System.out.println(arr[i]);
-        }
+        }	
+        
+        
+        
        
     }
     
